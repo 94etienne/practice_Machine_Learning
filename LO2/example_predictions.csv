@@ -1,0 +1,5 @@
+house_size,bedrooms,bathrooms,house_age,garage_size,lot_size,Predicted Price
+1800,3,2,5,2,7000,378047.04
+3200,5,4,2,3,12000,625845.66
+1200,2,1,25,1,5000,245660.23
+4000,6,4,8,3,15000,741565.15
